@@ -1,2 +1,2 @@
 # pokedex
-This is a React.Js utilising the pokeAPI
+This is a React.Js application utilising the pokeAPI
